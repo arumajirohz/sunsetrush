@@ -1,29 +1,29 @@
-# 🌅 SUNSET RUSH
+# SUNSET RUSH
 
 **落日狂飙 · SUNSET RUSH** is a neon synthwave arcade racing game built for the web with **Three.js**.
 
-## 🎮 Play
+## [ PLAY ]
 
-Open **[index.html](index.html)** for the presentation screen, then hit **START** to launch the game.
+Open **[index.html](index.html)** for the presentation screen, then select **HIT START** to launch the game.
 
 The actual game lives in **[game.html](game.html)**.
 
-## ⚡ Features
+## FEATURES
 
-- 🌇 Synthwave sunset highway
-- 🚗 Arcade traffic dodging
-- 💥 Near-miss scoring and combo system
-- ⚡ N₂O nitro boost
-- 🛡️ Shield system
-- 🪙 Collectible coins
-- 🚀 Ramps and airborne jumps
-- 🌴 Roadside scenery
-- 🎵 Procedural Web Audio effects
-- 🌐 Chinese / English interface
-- 📱 Touch controls
-- 🖥️ Keyboard controls
+- ◆ Synthwave sunset highway
+- ◆ Arcade traffic dodging
+- ◆ Near-miss scoring and combo system
+- ◆ N₂O nitro boost
+- ◆ Shield system
+- ◆ Collectible coins
+- ◆ Ramps and airborne jumps
+- ◆ Roadside scenery
+- ◆ Procedural Web Audio effects
+- ◆ Chinese / English interface
+- ◆ Touch controls
+- ◆ Keyboard controls
 
-## 🕹️ Controls
+## CONTROLS
 
 | Action | Keyboard / Touch |
 |---|---|
@@ -31,9 +31,9 @@ The actual game lives in **[game.html](game.html)**.
 | Nitro | `Space` / `N₂O` button |
 | Pause | `P` / `Esc` |
 | Start | `Enter` / Start button |
-| Touch steering | On-screen ◀ ▶ buttons |
+| Touch steering | On-screen `◀` `▶` buttons |
 
-## 📁 Project Structure
+## PROJECT STRUCTURE
 
 ```text
 sunsetrush/
@@ -42,7 +42,7 @@ sunsetrush/
 └── README.md    # Project documentation
 ```
 
-## 🚀 Run locally
+## RUN LOCALLY
 
 Because the game loads Three.js and other assets from CDNs, use a browser with network access.
 
@@ -54,7 +54,7 @@ python3 -m http.server
 
 Then open `http://localhost:8000/`.
 
-## 🛠️ Tech
+## TECH STACK
 
 - HTML5
 - CSS3
@@ -63,6 +63,6 @@ Then open `http://localhost:8000/`.
 - Web Audio API
 - Tailwind CSS
 
-## 📜 License
+## LICENSE
 
 No license has been specified yet.
